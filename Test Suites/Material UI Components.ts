@@ -5,7 +5,7 @@
    <tag></tag>
    <isRerun>false</isRerun>
    <lastRun>2017-09-27T16:49:14</lastRun>
-   <mailRecipient></mailRecipient>
+   <mailRecipient>abenitez@itrsgroup.com;</mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
