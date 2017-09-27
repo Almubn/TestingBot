@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <tag></tag>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'probando'</initValue>
+      <name>Text1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'probando2'</initValue>
+      <name>Text2</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
